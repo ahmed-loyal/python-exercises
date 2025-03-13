@@ -6,7 +6,7 @@ if the_world_is_flat:
 # print("# the hash here doesn't signify a comment")
 # the below are important things to know in py programming because they"ll be usesful
 p = 'this is the first line and \n this is the second line'
-# print(p)
+print(p)
 # note that since the print() is used here, the output would print the newline in the terminal
 #else if p runs without the print() function, the newline would be ignored and pinted as \n
 # but to ignore printing as newline, add a r before the qoute in the print() function as seen below
