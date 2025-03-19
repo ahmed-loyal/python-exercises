@@ -1,3 +1,4 @@
+#this is a bad fit type of lin reg
 import matplotlib.pyplot as plt
 from scipy import stats
 
