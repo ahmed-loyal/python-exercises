@@ -7,7 +7,7 @@ y = [21, 46, 3, 35, 67, 95, 53, 72, 58, 10, 26, 34, 90, 33, 38, 20, 56, 2, 15]
 
 slope, intercept, r, p, std_err = stats.linregress(x, y)
 
-# print(r)
+# print(r) -commented
 
 def myfunc(x):
     return slope * x + intercept
